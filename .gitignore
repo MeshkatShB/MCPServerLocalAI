@@ -403,3 +403,9 @@ FodyWeavers.xsd
 # Virtual Environments
 .venv
 .myenv
+
+# WAV Files
+*.WAV
+
+# Database
+*.sqlite
